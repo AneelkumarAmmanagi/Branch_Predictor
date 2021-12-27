@@ -21,6 +21,7 @@ weight vector. The sign of output y serves to make
 prediction, that non-negative output indicates “taken” and 
 negative output indicates “not taken”. 
 
-![image](https://user-images.githubusercontent.com/93528509/147481873-1428133c-bdb4-4cd9-b92a-986617ab4d45.png)
+![image](https://user-images.githubusercontent.com/93528509/147481977-985eab35-b2a8-4bb0-af1f-513fa9965795.png)
+
 
 
