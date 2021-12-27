@@ -21,4 +21,9 @@ weight vector. The sign of output y serves to make
 prediction, that non-negative output indicates “taken” and 
 negative output indicates “not taken”. 
 
+h
+y=w0 +∑xi wi 
+i=1
+
+
 
