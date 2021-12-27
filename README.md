@@ -24,4 +24,7 @@ negative output indicates “not taken”.
 ![image](https://user-images.githubusercontent.com/93528509/147481977-985eab35-b2a8-4bb0-af1f-513fa9965795.png)
 
 
+# References 
+wenbenz- py-pbp-sim
+https://ieeexplore.ieee.org/abstract/document/4492487
 
