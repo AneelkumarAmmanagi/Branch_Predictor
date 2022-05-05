@@ -1,6 +1,6 @@
 import NeuralNetwork
 import random
-
+from sklearn.neural_network import MLPClassifier
 
 _max_batch_size = 62   # max batch size for fitting the model
 
@@ -34,7 +34,7 @@ class NeuralNetwork:
         self.batch_Y = []
         self.batch_size = 1
         self.current_batch_size = 0
-        self.classifier = NeuralNetwork.MLPClassifier(
+        self.classifier = MLPClassifier(
             hidden_layer_sizes=_hidden_layer_sizes,
             activation=_activation,
             solver=_solver,
